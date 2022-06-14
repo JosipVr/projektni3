@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("pozadina2.jpg")
+}
+a {font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+; font color: black;
+	
+	
+
+}
+
+h2,h3{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+
+p{
+	font-style: italic;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
